@@ -1,6 +1,6 @@
 #Traffic light with Arduino
 
-、、、,c
+、、、.c
 void setup()
 {
   pinMode(13, OUTPUT);
