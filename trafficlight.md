@@ -1,3 +1,6 @@
+#Traffic light with Arduino
+
+、、、,c
 void setup()
 {
   pinMode(13, OUTPUT);
@@ -26,4 +29,5 @@ void loop()
 }
 
 the circuit is shown in the figure below
+
 
